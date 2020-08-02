@@ -20,6 +20,17 @@
     height: 100%;
 } 
 
+#carouselOpinions > .carousel-inner {
+    padding: 0 80px;
+}
+
+/* OPINIONS SECTION */
+
+.section-opinions {
+    padding: 100px 0;
+    background-color: #262431;
+}
+
 /* media query */
 
 @media(min-width: 960px) {
